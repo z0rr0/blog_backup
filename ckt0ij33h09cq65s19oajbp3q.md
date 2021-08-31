@@ -1,6 +1,6 @@
 ## Python comprehensions vs cycles
 
-Almost whole python programmers know that there are list comprehensions [PEP 202](https://www.python.org/dev/peps/pep-0202/). 
+Almost all python programmers know that there are list comprehensions [PEP 202](https://www.python.org/dev/peps/pep-0202/). 
 
 ```python
 # create list of odd numbers with cycle
