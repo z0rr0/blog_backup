@@ -1,6 +1,6 @@
 ## Python comprehensions vs cycles
 
-Almost all python programmers know that there are list comprehensions [PEP 202](https://www.python.org/dev/peps/pep-0202/). 
+Almost all python programmers know that there are list comprehensions [PEP 202](https://www.python.org/dev/peps/pep-0202/).
 
 ```python
 # create list of odd numbers with cycle
@@ -44,7 +44,7 @@ class BaseBench:
         raise NotImplementedError
 ```
 
-I write here a part of code, example only for `dict`. Other listings we can find in [github](https://github.com/z0rr0/blog/blob/main/posts/comprehensions-vs-cycles/comprehensions-vs-cycles.py):
+I write here a part of code, example only for `dict`. Other listings you can find in [github](https://github.com/z0rr0/blog/blob/main/posts/comprehensions-vs-cycles/comprehensions-vs-cycles.py):
 
 ```python
 class CycleBench(BaseBench):
