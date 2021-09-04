@@ -35,7 +35,7 @@ Go language doesn't have generators in the standard library. Let’s write three
 
 ###  Channel generator
 
-Go channel is a nice mechanism for concurrency communication. One goroutine sends (generate) data to a channel and another receives the value. Every time we work only with one item.
+Go channel is a nice mechanism for concurrency communication. One goroutine sends (generates) data to a channel and reader receives the value. Every time we work only with one item.
 
 ```go
 import "fmt"
